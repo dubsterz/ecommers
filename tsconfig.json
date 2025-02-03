@@ -19,7 +19,7 @@
     "module": "ES2022",
     "paths": {
         "@shared/*": ["./src/app/domains/shared/*"],
-        "@products/*": ["./src/app/domains/productos/*"],
+        "@productos/*": ["./src/app/domains/productos/*"],
         "@info/*": ["./src/app/domains/info/*"],
     }
   },
